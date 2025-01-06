@@ -1,3 +1,9 @@
 [submodule "exams"]
 	path = exams
 	url = https://github.com/Hustle28214/TestOpenCamp
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/Hustle28214/rustlings
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/Hustle28214/learning-cxx
