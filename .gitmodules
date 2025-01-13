@@ -7,3 +7,7 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = https://github.com/Hustle28214/learning-cxx
+
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/Hustle28214/TinyInfiniTensor.git
